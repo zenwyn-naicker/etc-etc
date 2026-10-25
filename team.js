@@ -1,6 +1,7 @@
 // All team details live in this file. Leave a field as "" to hide its button.
 // photo: a path such as "assets/photos/zenwyn.jpg" (square, at least 400 x 400,
 // face centred; it is shown as a circle).
+// Members are listed alphabetically by first name.
 window.TEAM = {
   name: "ETC ETC",
 
@@ -9,12 +10,6 @@ window.TEAM = {
   draft: false,
 
   members: [
-    {
-      name: "Zenwyn Naicker",
-      email: "zenwyn.naicker@gmail.com",
-      linkedin: "https://www.linkedin.com/in/zenwyn-naicker-208079266/",
-      photo: "assets/photos/zenwyn.jpg"
-    },
     {
       name: "Khayden Chetty",
       email: "chettykhayden@gmail.com",
@@ -32,6 +27,12 @@ window.TEAM = {
       email: "nsengiyumvaten@gmail.com",
       linkedin: "https://www.linkedin.com/in/stephane-nsengiyumva-932359394/",
       photo: "assets/photos/stephane.jpg"
+    },
+    {
+      name: "Zenwyn Naicker",
+      email: "zenwyn.naicker@gmail.com",
+      linkedin: "https://www.linkedin.com/in/zenwyn-naicker-208079266/",
+      photo: "assets/photos/zenwyn.jpg"
     }
   ]
 };

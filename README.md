@@ -1,6 +1,6 @@
 # ETC ETC
 
-Team page for ETC ETC: Zenwyn Naicker, Khayden Chetty, Rivaan Kawulesar and Stephane Nsengiyumva.
+Team page for ETC ETC: Khayden Chetty, Rivaan Kawulesar, Stephane Nsengiyumva and Zenwyn Naicker.
 
 **Live:** https://zenwyn-naicker.github.io/etc-etc/
 
